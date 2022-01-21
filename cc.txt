@@ -1,0 +1,4 @@
+how to install gitbash
+open account in github
+branch-merge
+chekout command
