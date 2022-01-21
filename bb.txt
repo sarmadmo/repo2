@@ -1,0 +1,6 @@
+Different operating systems represent the
+ end of a line of text in different ways, 
+which can cause problems in repositories 
+that are being contributed to by people 
+using different operating systems. There are a couple options that can 
+be used to prevent these issues.
